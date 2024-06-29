@@ -27,9 +27,6 @@ Flutter for developing the app UI.
 
 
 ### Contributors
-
-- [Sairaj Ghosarwadkar](https://github.com/Sairaj-G)
-- [Shivam Vishwakarma](https://github.com/v-shivam)
-
+- [leela Prasad](https://github.com/Leela-2)
 
 
