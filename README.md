@@ -13,6 +13,7 @@ The project is a Transaction Tracker. With features that enables one to keep tra
 ### Technologies
 
 Flutter for developing the app UI.
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/7fe09b6a-6323-40b1-8f44-d5656849e259" />
 
 
 [Firebase Authentication](https://firebase.google.com/docs/auth) for authentication in app.  
